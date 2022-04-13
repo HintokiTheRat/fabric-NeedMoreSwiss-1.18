@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "crimerzboogaloo:block/stripped_colorata_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "crimerzboogaloo:block/stripped_colorata_wood"
+    },
+    "axis=z": {
+      "model": "crimerzboogaloo:block/stripped_colorata_wood",
+      "x": 90
+    }
+  }
+}

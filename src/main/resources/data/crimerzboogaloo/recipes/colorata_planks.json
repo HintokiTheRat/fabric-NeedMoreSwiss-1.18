@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "planks",
+  "ingredients": [
+    {
+      "tag": "crimerzboogaloo:colorata_logs"
+    }
+  ],
+  "result": {
+    "item": "crimerzboogaloo:colorata_planks",
+    "count": 4
+  }
+}

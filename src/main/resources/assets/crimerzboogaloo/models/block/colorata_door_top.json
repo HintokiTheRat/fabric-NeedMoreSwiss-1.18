@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_top",
+  "textures": {
+    "top": "crimerzboogaloo:block/colorata_door_top",
+    "bottom": "crimerzboogaloo:block/colorata_door_bottom"
+  }
+}

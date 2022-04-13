@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "crimerzboogaloo:block/colorata_slab"
+    },
+    "type=double": {
+      "model": "crimerzboogaloo:block/colorata_planks"
+    },
+    "type=top": {
+      "model": "crimerzboogaloo:block/colorata_slab_top"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "crimerzboogaloo",
+  "version": "${version}",
+
+  "name": "Crimerz: Boogaloo edition",
+  "description": "This is an example description! Tell everyone what your mod is about!",
+  "authors": [
+    "Hintoki"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "MIT",
+  "icon": "assets/crimerzboogaloo/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.hintoki.crimerzboogaloo.CrimerzBoogaloo"
+    ],
+    "client": [
+      "net.hintoki.crimerzboogaloo.CrimerzBoogalooClient"
+    ]
+  },
+  "mixins": [
+    "crimerzboogaloo.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.13.3",
+    "fabric": "*",
+    "minecraft": "1.18.x",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

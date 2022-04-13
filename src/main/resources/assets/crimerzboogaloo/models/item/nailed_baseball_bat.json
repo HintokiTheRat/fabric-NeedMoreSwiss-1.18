@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "crimerzboogaloo:item/nailed_baseball_bat"
+  }
+}
