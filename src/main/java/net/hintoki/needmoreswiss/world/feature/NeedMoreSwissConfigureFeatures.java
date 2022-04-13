@@ -15,12 +15,12 @@ import java.util.List;
 
 public class NeedMoreSwissConfigureFeatures {
     public static final RegistryEntry<ConfiguredFeature<TreeFeatureConfig, ?>> COLORATA_TREE =
-            ConfiguredFeatures.register("jacaranda_tree", Feature.TREE, new TreeFeatureConfig.Builder(
+            ConfiguredFeatures.register("colorata_tree", Feature.TREE, new TreeFeatureConfig.Builder(
                     BlockStateProvider.of(NeedMoreSwissBlocks.COLORATA_LOG),
                     new ForkingTrunkPlacer(6, 6, 3),
                     BlockStateProvider.of(NeedMoreSwissBlocks.COLORATA_LEAVES),
-                    new BushFoliagePlacer(ConstantIntProvider.create(3), ConstantIntProvider.create(1), 2),
-                    new TwoLayersFeatureSize(1, 0, 3)).build());
+                    new BushFoliagePlacer(ConstantIntProvider.create(2), ConstantIntProvider.create(0), 2),
+                    new TwoLayersFeatureSize(2, 0, 0)).build());
 
     // cf -> рf -> cf ->рf
     public static final RegistryEntry<PlacedFeature> COLORATA_CHECKED = PlacedFeatures
