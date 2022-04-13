@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_pressure_plate",
+  "pattern": [
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "needmoreswiss:colorata_planks"
+    }
+  },
+  "result": {
+    "item": "needmoreswiss:colorata_pressure_plate"
+  }
+}

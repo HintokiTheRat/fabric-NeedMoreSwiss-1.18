@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "needmoreswiss:block/colorata_planks",
+    "top": "needmoreswiss:block/colorata_planks",
+    "side": "needmoreswiss:block/colorata_planks"
+  }
+}

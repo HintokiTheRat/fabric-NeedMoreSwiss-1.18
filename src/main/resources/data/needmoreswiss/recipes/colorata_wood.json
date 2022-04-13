@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "bark",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "needmoreswiss:colorata_log"
+    }
+  },
+  "result": {
+    "item": "needmoreswiss:colorata_wood",
+    "count": 3
+  }
+}

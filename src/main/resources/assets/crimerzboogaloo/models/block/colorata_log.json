@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_column",
-  "textures": {
-    "end": "crimerzboogaloo:block/colorata_log_top",
-    "side": "crimerzboogaloo:block/colorata_log"
-  }
-}

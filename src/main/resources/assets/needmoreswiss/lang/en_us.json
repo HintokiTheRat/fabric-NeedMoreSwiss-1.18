@@ -1,0 +1,29 @@
+{
+  "item.needmoreswiss.colorata_swiss_roll": "Swiss roll",
+  "item.needmoreswiss.colorata_syrup": "Colorata Syrup",
+
+  "item.needmoreswiss.colorata_branch": "Colorata branch",
+  "block.needmoreswiss.colorata_sapling": "Colorata sapling",
+  "block.needmoreswiss.potted_colorata_sapling": "Potted needmoreswissColorata sapling",
+
+  "block.needmoreswiss.colorata_leaves": "Colorata leaves",
+  "block.needmoreswiss.colorata_log": "Colorata log",
+  "block.needmoreswiss.stripped_colorata_log": "Stripped Colorata log",
+  "block.needmoreswiss.colorata_wood": "Colorata wood",
+  "block.needmoreswiss.stripped_colorata_wood": "Stripped Colorata wood",
+  "block.needmoreswiss.colorata_planks": "Colorata planks",
+  "block.needmoreswiss.colorata_slab": "Colorata slab",
+  "block.needmoreswiss.colorata_stairs": "Colorata stairs",
+
+  "block.needmoreswiss.colorata_button": "Colorata button",
+  "block.needmoreswiss.colorata_pressure_plate": "Colorata pressure plate",
+  "block.needmoreswiss.colorata_fence": "Colorata fence",
+  "block.needmoreswiss.colorata_fence_gate": "Colorata fence gate",
+  "block.needmoreswiss.colorata_logs_wall": "Colorata logs wall",
+
+  "block.needmoreswiss.colorata_door": "Colorata door",
+  "block.needmoreswiss.colorata_trapdoor": "Colorata trapdoor",
+
+  "itemGroup.needmoreswiss.crimerzboogaloo_group": "Need More Swiss"
+
+}

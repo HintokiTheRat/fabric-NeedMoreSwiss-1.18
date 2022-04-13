@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_horizontal",
+  "textures": {
+    "end": "needmoreswiss:block/stripped_colorata_log_top",
+    "side": "needmoreswiss:block/stripped_colorata_log"
+  }
+}

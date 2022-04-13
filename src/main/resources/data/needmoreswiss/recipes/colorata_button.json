@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "wooden_button",
+  "ingredients": [
+    {
+      "item": "needmoreswiss:colorata_planks"
+    }
+  ],
+  "result": {
+    "item": "needmoreswiss:colorata_button"
+  }
+}

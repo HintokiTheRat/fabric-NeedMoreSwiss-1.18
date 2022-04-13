@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "needmoreswiss:block/colorata_log",
+    "side": "needmoreswiss:block/colorata_log"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "planks",
+  "ingredients": [
+    {
+      "tag": "needmoreswiss:colorata_logs"
+    }
+  ],
+  "result": {
+    "item": "needmoreswiss:colorata_planks",
+    "count": 4
+  }
+}

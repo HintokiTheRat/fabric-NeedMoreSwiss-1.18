@@ -3,7 +3,7 @@
   "id": "crimerzboogaloo",
   "version": "${version}",
 
-  "name": "Crimerz: Boogaloo edition",
+  "name": "Need More Swiss",
   "description": "This is an example description! Tell everyone what your mod is about!",
   "authors": [
     "Hintoki"
@@ -14,19 +14,19 @@
   },
 
   "license": "MIT",
-  "icon": "assets/crimerzboogaloo/icon.png",
+  "icon": "assets/needmoreswiss/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.hintoki.crimerzboogaloo.CrimerzBoogaloo"
+      "net.hintoki.needmoreswiss.NeedMoreSwiss"
     ],
     "client": [
-      "net.hintoki.crimerzboogaloo.CrimerzBoogalooClient"
+      "net.hintoki.needmoreswiss.NeedMoreSwissClient"
     ]
   },
   "mixins": [
-    "crimerzboogaloo.mixins.json"
+    "needmoreswiss.mixins.json"
   ],
 
   "depends": {

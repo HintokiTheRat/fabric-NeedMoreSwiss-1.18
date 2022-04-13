@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "needmoreswiss:block/colorata_sapling"
+  }
+}
