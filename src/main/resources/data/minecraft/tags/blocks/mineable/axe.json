@@ -5,7 +5,16 @@
     "crimerzboogaloo:stripped_colorata_log",
     "crimerzboogaloo:colorata_wood",
     "crimerzboogaloo:stripped_colorata_wood",
-    "crimerzboogaloo:colorata_planks"
+    "crimerzboogaloo:colorata_planks",
+    "crimerzboogaloo:colorata_fence",
+    "crimerzboogaloo:colorata_button",
+    "crimerzboogaloo:colorata_pressure_plate",
+    "crimerzboogaloo:colorata_fence_gate",
+    "crimerzboogaloo:colorata_logs_wall",
+    "crimerzboogaloo:colorata_slab",
+    "crimerzboogaloo:colorata_stairs",
+    "crimerzboogaloo:colorata_door",
+    "crimerzboogaloo:colorata_trapdoor"
 
   ]
 }
